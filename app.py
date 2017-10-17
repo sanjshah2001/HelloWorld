@@ -1,7 +1,7 @@
 import csv
 from FormattedData import FormatData
 
-NewData = [FormatData("George", 65, True),
+NewData = [FormatData("Ashish", 65, True),
            FormatData("Sally", 47, False),
            FormatData("Doug", 52, True)]
 
